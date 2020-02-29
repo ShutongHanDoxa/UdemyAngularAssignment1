@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Assignment1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
@@ -32,4 +32,4 @@ Create two new components: warnig Alert and success alert
 output them beneath each other in the appcomponent
 output messages
 style with color
->>>>>>> c64296809f3b63af7835967b189404743ac2324f
+
