@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
@@ -25,3 +26,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# UdemyAngularAssignment 1
+Create two new components: warnig Alert and success alert
+output them beneath each other in the appcomponent
+output messages
+style with color
+>>>>>>> c64296809f3b63af7835967b189404743ac2324f
